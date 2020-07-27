@@ -1,4 +1,4 @@
-# Test-from-pdf
+# Text-from-pdf
 
 This projects if for fetching text from a url. Content type can be html or pdf.
 
