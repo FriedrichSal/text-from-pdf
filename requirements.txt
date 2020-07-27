@@ -1,0 +1,5 @@
+pdftotext
+html2text
+requests
+flask
+flask_restful
